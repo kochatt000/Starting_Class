@@ -1,5 +1,6 @@
 # Syllabus
 ###### for IB DP CS with S. Wegscheid
+https://github.com/kochatt000/Starting_Class/blob/master/Syllabus
 
 If you are enrolled in this course, you are probably already pretty well aware of what I teach, and the style my courses typically take. This will be a somewhat new adventure though, as I've never had a test in Tech to prep students for. As such, there may be chunks that have to run differently, and you will have to do some stuff outside of class. Majority of my Design and Tech courses at WAIS are designed with regards to IB MYP and CP. Courses also fulfill Texas STEM or Business & Industry graduation endorsements if part of a coherent sequence.
 
