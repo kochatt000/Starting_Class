@@ -155,7 +155,7 @@ Majority of content will be delivered through video instruction. This allows you
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](../images/cheating.jpg)
+![alt text](https://github.com/kochatt000/Starting_Class/blob/master/compsci.jpg)
 
 #### Cheating & Academic Dishonesty
 
