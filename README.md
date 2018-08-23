@@ -77,6 +77,7 @@ Research, as well as personal experience, shows that students tend to understand
 ###### Course: §126.33
 
 ## Computer Science 1
+https://github.com/kochatt000/Starting_Class/blob/master/Course%20Description
 
 TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
 
