@@ -108,7 +108,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/compsci.jpg)
+![alt text](https://github.com/kochatt000/Starting_Class/blob/master/compsci.jpg)
 
 
 
