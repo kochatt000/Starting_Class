@@ -1,4 +1,4 @@
-#Ada Lovelace
+# Ada Lovelace
 Ada Lovelace is often considered to be the first programmer, despite living from 1815-1852, before digital computers were 
 invented. She grew up being privately tutored in mathematics, unusual for a woman at the time. Her contribution to the study 
 stems from her instructions regarding the operation of the Analytical Engine, a mechanical computer. The sequence of steps 
