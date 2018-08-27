@@ -185,3 +185,6 @@ Research, as well as personal experience, shows that students tend to understand
  
 #### CMS / LMS:
 We will use ManageBac.
+
+# What is Computer Science?
+https://github.com/kochatt000/Starting_Class/blob/master/What%20is%20Computer%20Science%3F.md
