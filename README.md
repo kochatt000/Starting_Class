@@ -188,3 +188,6 @@ We will use ManageBac.
 
 # What is Computer Science?
 https://github.com/kochatt000/Starting_Class/blob/master/What%20is%20Computer%20Science%3F.md
+
+# People of Interest
+https://github.com/kochatt000/Starting_Class/blob/master/People%20of%20Interest.md
